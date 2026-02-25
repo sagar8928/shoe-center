@@ -295,7 +295,7 @@ export default function HomePage() {
                 transition={{ duration: 0.6 }}
               >
                 <Image
-                  src="/assests/sneakers.jpg"
+                  src="/assests/sneakers2.jpg"
                   alt="Durable shoes"
                   width={600}
                   height={400}
